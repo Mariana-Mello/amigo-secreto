@@ -171,6 +171,7 @@ body {
   color: #00f4bf;
   font-size: clamp(18px, 2.5vw, 24px);
   font-weight: 700;
+  margin-top: 1rem
 }
 
 .prizeDraw__container {
